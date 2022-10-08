@@ -1,2 +1,3 @@
 # webpage1
-just a sample webpage
+just a sample e-commerce webpage
+
